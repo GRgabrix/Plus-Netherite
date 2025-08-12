@@ -21,3 +21,8 @@ In vanilla Minecraft, Netherite can only be obtained by finding Ancient Debris i
 With this datapack, you can obtain Netherite through **additional recipes** that make the process faster and less repetitive.
 
 </details>
+
+---
+![Crafting Example](https://cdn.modrinth.com/data/CcnisAuz/images/c60f1aad60dc01d81060e99231c8bfd9fb23f1f2.png)
+
+![Upgrade Block Example](https://cdn.modrinth.com/data/CcnisAuz/images/3c05e15a6f7b2e38d015914d86ebb5bde4a2f702.png)
